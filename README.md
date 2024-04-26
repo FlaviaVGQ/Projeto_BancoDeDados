@@ -1,6 +1,7 @@
 # Projeto Da Disciplina De Banco De Dados
 
-Alunas: Flávia Vitória e Maria Luiza
+Alunas: Flávia Vitória Gonçalves de Queiroz e Maria Luiza Almeida Leite
+
 ##
 Tema : Observatório da SARS-CoV-2
 
